@@ -36,9 +36,12 @@ This project was bootstrapped with [Create React App](https://create-react-app.d
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the nasa-api-frontend directory, you will need to run:
+
+`npm i` to install the node_modules folder before running the application then you can use the command below to start the application.
 
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
